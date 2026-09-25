@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+.f1{
+    font-family: 'Montserrat';
+}
+.f2{
+    font-family: 'Playfair Display';
+}
+body { 
+background: rgb(230, 244, 255); 
+} 
+#t1 { 
+color: rgb(0, 115, 255); 
+} 
+.aviso { 
+background: rgb(193, 223, 255); 
+}
+a { 
+color: rgb(0, 187, 255); 
+} 
+a:hover { 
+color: red; 
+} 
+* { 
+color: rgb(38, 38, 38); 
+}
